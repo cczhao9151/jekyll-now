@@ -1,12 +1,17 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: minima
-title: Welcome to my blog
+# Name of your site (displayed in the header)
+name: Your Name
+
+# Short bio or description (displayed in the header)
+description: Web Developer from Somewhere
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
 #author: cc
 #email: cc@cc.com
-description: > # this means to ignore newlines until "baseurl:"
-I am on my path to become a data scientist
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 #github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!

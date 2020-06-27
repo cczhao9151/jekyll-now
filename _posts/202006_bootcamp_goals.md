@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bootcamp Mission Statement
+permalink: https://github.com/cczhao9151/202006/Bootcamp_Mission_Statement
+
 ---
 
 ## Bootcamp Mission Statement
